@@ -5,7 +5,7 @@ Ruby low-effort interactive GUI app development environment akin to Smalltalk, w
 
 Building GUI with Glimmer GUI DSL syntax is great. It is certainly lighter and quicker than using complex WYSIWYG editors.
 
-That said, there is still value in inspect live application GUI directly instead of going back to the code and relaunching the app on every code change.
+That said, there is still value in inspecting live application GUI directly instead of going back to the code and relaunching the app on every code change.
 
 One idea is to use a special shortcut (or glimmer command arg) that enables Glimmertalk. 
 What that does is enabling a new menu to show up when right-clicking on any widget in a running desktop application.
